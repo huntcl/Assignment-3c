@@ -3,9 +3,9 @@
 # Date: 04/15/26
 # Description: Number guessing game
 
-target = int(input("Enter the integer for the player to guess:\n"))
+target = int(input("Enter the integer for the player to guess.\n"))
 
-guess = int(input("Enter your guess:\n"))
+guess = int(input("Enter your guess.\n"))
 
 count = 1
 
